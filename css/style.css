@@ -74,3 +74,78 @@ body {
     margin-right: 10px;
     font-size: 14px;
 }
+
+.feature{
+    margin:100px 0px;
+}
+
+.heading{
+    margin-bottom:100px;
+}
+.feature-text{
+    padding: 50px;
+    border: 2px solid #ddd;
+    background: white;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    transition: all 0.3s ease-in-out;
+}
+
+.feature-text h4{
+    margin: 40px 0;
+}
+
+.feature-text:hover{
+    border-top: 6px solid #fb527a;
+    padding-top: 45px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.img-hover1{
+    background:url(../img/girl-hover2.png);
+    background-repeat: no-repeat;
+    background-position:50%;
+    height: 60px;
+}
+.img-hover2{
+    background:url(../img/hand-hover.png);
+    background-repeat: no-repeat;
+    background-position:50%;
+    height: 60px;
+}
+.img-hover3{
+    background:url(../img/desktop-hover.png);
+    background-repeat: no-repeat;
+    background-position:50%;
+    height: 60px;
+}
+.img-hover4{
+    background:url(../img/girl-hover2.png);
+    background-repeat: no-repeat;
+    background-position:50%;
+    height: 60px;
+}
+.img-hover5{
+    background:url(../img/mobile-lock-hover.png);
+    background-repeat: no-repeat;
+    background-position:50%;
+    height: 60px;
+}
+.img-hover6{
+    background:url(../img/pin-map-hover6.png);
+    background-repeat: no-repeat;
+    background-position:50%;
+    height: 60px;
+}
+.img-hover7{
+    background:url(../img/person-hover5.png);
+    background-repeat: no-repeat;
+    background-position:50%;
+    height: 60px;
+}
+.img-hover8{
+    background:url(../img/mobile1-hover.png);
+    background-repeat: no-repeat;
+    background-position:50%;
+    height: 60px;
+}
